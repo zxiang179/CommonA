@@ -1,7 +1,11 @@
 package sword2offer;
 
 import org.junit.Test;
-
+/**
+ * 二维数组中的查找
+ * @author Carl_Hugo
+ * 2017年10月12日 上午11:19:38
+ */
 public class Mian3 {
 	
 	/**
